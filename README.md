@@ -25,6 +25,11 @@
 - **HTML & CSS** — web fundamentals
 - **JavaScript** — beginner level
 
+### Web Development
+- WordPress Website Development
+- HTML & CSS
+- JavaScript (Basic)
+
 ### AI, Data & Libraries
 - NumPy
 - Pandas
@@ -59,6 +64,7 @@
 ## 🤝 Connect
 
 - 🌐 **Portfolio:** [Visit my website](https://muhammad-salman-animated-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-salman-4376943b0/)
 - 💻 **GitHub:** [msalman65941-sys](https://github.com/msalman65941-sys)
 
 ---
